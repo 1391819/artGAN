@@ -18,6 +18,10 @@ A Generative Adversarial Network for the generation of new synthetic art.
 - Generative Adversarial Network (GAN)
 - Convolutional Neural Network (CNN)
 
+## Data Overview
+
+- [Art Portraits - Karnika Kapoor](https://www.kaggle.com/datasets/karnikakapoor/art-portraits)
+
 ## Roadmap
 
 - [x]  Setting up environment
