@@ -10,13 +10,17 @@
 
 ## About
 
-A Generative Adversarial Network for the generation of new synthetic art.
+A Generative Adversarial Network for the generation of new synthetic art (64x64).
 
 ## Stack
 
 - TensorFlow
 - Generative Adversarial Network (GAN)
 - Convolutional Neural Network (CNN)
+- Adam Optimizer
+- Binary Cross Entropy
+- Random Noise Injection
+- Data pipeline and Custom training loop
 
 ## Data Overview
 
