@@ -2,15 +2,9 @@
   <img src="imgs/logo-light-nobg.png" alt="logo" width="128"/>
   <h1>ArtGAN</h1>
 
-[Kaggle Notebook](https://www.kaggle.com/code/robertonacu/artgan)
-
 </div>
 
 <div align="justify">
-
-## About
-
-A Generative Adversarial Network for the generation of new synthetic art (64x64).
 
 ## Stack
 
