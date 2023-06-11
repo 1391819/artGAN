@@ -8,6 +8,16 @@
 
 This project utilizes a GAN architecture, consisting of a generator and a discriminator, to generate synthetic art. The generator creates new images, while the discriminator evaluates the authenticity of these images. Through an adversarial training process, the two networks compete against each other, leading to the generation of 64 by 64 art pieces.
 
+## Roadmap
+
+- [x] Setting up environment
+- [x] Building a data pipeline
+- [x] Creating a generator and a discriminator
+- [x] Building a custom training loop
+- [x] Generating new images
+- [x] Review model performance and conclusions
+
+
 ## Stack
 
 - TensorFlow
@@ -21,15 +31,6 @@ This project utilizes a GAN architecture, consisting of a generator and a discri
 ## Data Overview
 
 - [Art Portraits - Karnika Kapoor](https://www.kaggle.com/datasets/karnikakapoor/art-portraits)
-
-## Roadmap
-
-- [x]  Setting up environment
-- [x]  Building a data pipeline
-- [x]  Creating a generator and a discriminator
-- [x]  Building a custom training loop
-- [x]  Generating new images
-- [x]  Review model performance and conclusions
 
 ## Architecture
 
