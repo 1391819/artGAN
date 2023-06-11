@@ -10,12 +10,17 @@ This project utilizes a GAN architecture, consisting of a generator and a discri
 
 ## Roadmap
 
-- [x] Setting up environment
-- [x] Building a data pipeline
-- [x] Creating a generator and a discriminator
-- [x] Building a custom training loop
-- [x] Generating new images
-- [x] Review model performance and conclusions
+- [x]  Research GAN architectures
+- [x]  Set up a data pipeline
+- [x]  Implement the generator architecture following the guidelines from the research paper
+- [x]  Develop the discriminator as a CNN-based image classifier
+- [x]  Train the GAN using a custom training loop, injecting random noise into the discriminator’s output
+- [x]  Utilise the Adam optimiser and Binary Cross Entropy loss function for training the GAN
+- [x]  Monitor the loss values of the generator and discriminator during training for convergence
+- [x]  Fine-tune the training process by adjusting learning rates and other parameters
+- [x]  Optimise the GAN’s architecture by refining neural network structures and adjusting hyperparameters
+- [x]  Evaluate the generated images for quality and fidelity
+- [x]  Identify areas for further improvement and potential future enhancements
 
 
 ## Stack
