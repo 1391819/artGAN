@@ -6,6 +6,8 @@
 
 <div align="justify">
 
+This project utilizes a GAN architecture, consisting of a generator and a discriminator, to generate synthetic art. The generator creates new images, while the discriminator evaluates the authenticity of these images. Through an adversarial training process, the two networks compete against each other, leading to the generation of 64 by 64 art pieces.
+
 ## Stack
 
 - TensorFlow
