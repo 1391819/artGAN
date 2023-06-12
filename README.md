@@ -10,15 +10,15 @@ This project utilizes a GAN architecture, consisting of a generator and a discri
 
 ## Roadmap
 
-- [x]  Research GAN architectures
-- [x]  Set up data pipeline
-- [x]  Implement generator
-- [x]  Develop discriminator
-- [x]  Create custom training loop
-- [x]  Fine-tune training process (i.e., learning rates, random noise injection, binary cross entropy)
-- [x]  Optimise GAN’s architecture (i.e., neural network structures and hyperparameters)
-- [x]  Evaluate generated images
-- [x]  Identify areas for further improvement
+- [x] Research GAN architectures
+- [x] Set up data pipeline
+- [x] Implement generator
+- [x] Develop discriminator
+- [x] Create custom training loop
+- [x] Fine-tune training process (e.g., learning rates, random noise injection, binary cross entropy)
+- [x] Optimize GAN's architecture (e.g., neural network structures and hyperparameters)
+- [x] Evaluate generated images
+- [x] Identify areas for further improvement
 
 
 ## Stack
