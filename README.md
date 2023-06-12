@@ -15,9 +15,9 @@ This project utilizes a GAN architecture, consisting of a generator and a discri
 - [x]  Implement generator
 - [x]  Develop discriminator
 - [x]  Create custom training loop
-- [x]  Fine-tune the training process (i.e., learning rates, random noise injection, binary cross entropy)
-- [x]  Optimise the GAN’s architecture (i.e., neural network structures and hyperparameters)
-- [x]  Evaluate the generated images
+- [x]  Fine-tune training process (i.e., learning rates, random noise injection, binary cross entropy)
+- [x]  Optimise GAN’s architecture (i.e., neural network structures and hyperparameters)
+- [x]  Evaluate generated images
 - [x]  Identify areas for further improvement
 
 
