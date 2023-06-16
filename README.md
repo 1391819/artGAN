@@ -29,7 +29,7 @@ This project utilises a GAN architecture, consisting of a generator and a discri
 - Adam Optimizer
 - Binary Cross Entropy
 - Random Noise Injection
-- Data pipeline and Custom training loop
+- Custom training loop
 
 ## Data Overview
 
